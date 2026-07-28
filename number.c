@@ -1,3 +1,7 @@
+QUESTION:
+Write a program to determine whether the entered number is positive, negative, or zero using decision control statements.
+
+CODE:
 #include <stdio.h>
 
 int main()
@@ -22,3 +26,15 @@ int main()
 
     return 0;
 }
+
+OUTPUT:
+Enter a number: 25
+The number is Positive
+
+
+Enter a number: -10
+The number is Negative
+
+
+Enter a number: 0
+The number is Zero
