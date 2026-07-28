@@ -1,3 +1,7 @@
+QUESTION:
+Write a program to check whether the entered year is a leap year according to the Gregorian calendar rules.
+
+CODE:
 #include <stdio.h>
 
 int main()
@@ -26,3 +30,7 @@ int main()
 
     return 0;
 }
+
+OUTPUT:
+Enter year: 2024
+2024 is a Leap Year
