@@ -1,3 +1,7 @@
+QUESTION:
+A student passes only if he/she scores at least 40 marks in every subject. Write a program to determine whether the student has passed or failed after accepting marks in five subjects.
+
+CODE:
 #include <stdio.h>
 
 int main()
@@ -18,3 +22,8 @@ int main()
 
     return 0;
 }
+
+OUTPUT:
+Enter marks of five subjects:
+91 88 89 95 90
+Student Passed
