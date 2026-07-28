@@ -1,3 +1,7 @@
+QUESTION:
+Develop a C program to read three integer values and determine the largest among them using nested if statements.
+
+CODE:
 #include <stdio.h>
 
 int main()
@@ -32,3 +36,8 @@ int main()
 
     return 0;
 }
+
+
+OUTPUT:
+Enter three numbers: 10 25 15
+Largest number is 25
