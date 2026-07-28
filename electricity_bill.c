@@ -1,3 +1,7 @@
+QUESTION:
+Design a program to calculate the electricity bill using slab-wise tariff rates and display the total payable amount.
+
+CODE:
 #include <stdio.h>
 
 int main()
@@ -29,3 +33,7 @@ int main()
 
     return 0;
 }
+
+OUTPUT:
+Enter units consumed: 250
+Total Electricity Bill = 1500
