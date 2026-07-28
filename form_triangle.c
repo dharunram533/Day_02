@@ -1,3 +1,7 @@
+QUESTION:
+Write a program to accept the lengths of three sides of a triangle and determine whether the given sides can form a valid triangle.
+
+CODE:
 #include <stdio.h>
 
 int main()
@@ -18,3 +22,7 @@ int main()
 
     return 0;
 }
+
+OUTPUT:
+Enter three sides: 5 6 7
+The given sides form a valid triangle
